@@ -1,5 +1,11 @@
+
+
 Esta es la historia de charly.
 
 Charly nacio en Argentina en 1994 y el dia de hoy esta aprendiendo a usar git
 
 hoy hablaremos de eso.
+
+El parece hacker pero todavia no lo es
+
+le va a tomar un tiempo pero va hacer el mejor.
