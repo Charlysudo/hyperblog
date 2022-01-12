@@ -12,4 +12,5 @@ Esta costando el envio de mensajes por commit pero pronto lo voy a tener agarrad
 
 haciendo practica 400 del envio de un commit
 
+ma;ana nos esfoncaremos mas
 
