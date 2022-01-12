@@ -1,16 +1,10 @@
-Esta es la historia de charly.
+-------------------------------
+GIT RM  
+-------------------------------
+Este comando nos ayuda a eliminar archivos de Git sin eliminar su historial del sistema de versiones. 
 
-Charly nacio en Argentina en 1994 y el dia de hoy esta aprendiendo a usar git
+Esto quiere decir que si necesitamos recuperar el archivo solo debemos “viajar en el tiempo” y recuperar el último commit antes de borrar el archivo en cuestión.
+Recuerda que git rm no puede usarse así nomás. 
 
-hoy hablaremos de eso.
-
-Estamos haciendo pruebas y practicas de ejecucion para aprender a utilizar vim a
-
-la vez que aprendemos a usar git & github.
-
-Esta costando el envio de mensajes por commit pero pronto lo voy a tener agarrado.
-
-haciendo practica 400 del envio de un commit
-
-ma;ana nos esfoncaremos mas
+Debemos usar uno de los flags para indicarle a Git cómo eliminar los archivos que ya no necesitamos en la última versión del proyecto:
 
